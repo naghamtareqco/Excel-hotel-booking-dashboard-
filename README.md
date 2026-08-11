@@ -42,4 +42,4 @@ This project is an interactive Excel dashboard built to analyze hotel booking da
 - KPI Cards
 
 ## Dashboard Preview
-![Dashboard](dashboard-preview.png)
+![Dashboard](Dashboard%20preview.png)
