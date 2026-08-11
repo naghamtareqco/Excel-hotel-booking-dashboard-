@@ -41,3 +41,5 @@ This project is an interactive Excel dashboard built to analyze hotel booking da
 - Conditional Formatting
 - KPI Cards
 
+## Dashboard Preview
+![Dashboard](dashboard-preview.png)
